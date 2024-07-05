@@ -7,6 +7,7 @@ Using only Dart and Flutter
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+I want someting new form you :)
 
 UI of Project:
 ![image](https://github.com/gitsubash44/portfolio_app/assets/110603740/9690e9d5-e5d8-492d-94db-47cab41fb03c)
